@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\components",
     "\\src\\contexts"
   ],
-  "SelectedNode": "\\src\\contexts\\LanguageContext.js",
+  "SelectedNode": "\\src\\components\\Button.js",
   "PreviewInSolutionExplorer": false
 }

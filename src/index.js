@@ -2,7 +2,7 @@ import React from 'react';
 import reactDOM from 'react-dom';
 
 import App from './components/App';
-import { Provider } from 'react-redux';
+//import { Provider } from 'react-redux';
 //import { createStore, combineReducers } from 'redux';
 
 //const reducers = combineReducers({ reducer: null });
